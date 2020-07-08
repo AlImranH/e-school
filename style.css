@@ -8,6 +8,9 @@ li{
 header{
     background: #F0FFF0;
 }
+.navbar-toggler span{
+    color: lightgray;
+}
 .logo{
     height: 60px;
     width: 200px;
