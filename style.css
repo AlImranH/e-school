@@ -1,0 +1,72 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+}
+li{
+    font-size: 16px;
+}
+header{
+    background: #F0FFF0;
+}
+.logo{
+    height: 60px;
+    width: 200px;
+}
+a.nav-link{
+    color: black;
+    padding: .6rem 1.3rem !important;
+}
+.singin{
+    background-color: #21B573;
+    padding: .6rem 1.8rem !important;
+    border-radius: 20px;
+    color: #fff;
+    box-shadow: 0px 4px 4px lightgrey;
+}
+.banner small{
+    color: #FD511A;
+}
+.banner h1{
+    font-weight: 700;
+}
+.banner h1 span{
+    color: #21B573;    
+}
+.banner p, footer p.copyright{
+    color: #6C6B6B;
+}
+.btn-get-started{
+    border: none;
+}
+.box{
+    background-color: #F8FFFB;
+    border-radius: 10px;
+}
+.box:hover{
+    background-color: #fff;
+    box-shadow: 0px 0px 10px lightgray;
+}
+.card{
+    border: none;
+    box-shadow: 0px 0px 30px lightgray;
+    border-radius: .8rem !important;
+}
+.card:hover{
+    box-shadow: 0px 0px 70px lightgray;
+}
+.card-footer{
+    background-color: #fff;
+    border-top: none;
+}
+.card-footer img{
+    height: 24px;
+    width: 24px;
+}
+footer{
+    background-color: #282531;
+    color: #fff;
+}
+.carousel-control-prev, .carousel-control-next{
+    font-size: 20px;
+    color: lightgray;
+}
